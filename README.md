@@ -77,7 +77,8 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Scrupp](https://scrupp.com) - Chrome extension that extracts verified emails and phones from LinkedIn Sales Navigator, with waterfall verification and CSV/Google Sheets export.
 * [Pick an Agency](https://www.pickanagency.com) - Independent directory of 47,000+ ad and marketing agencies, ranked by verified reviews. No paid placements.
 * [MarketiStats](https://marketistats.com) - Multi-channel marketing analytics dashboard (social, SEO, outreach, affiliates, paid ads) for SaaS founders
-* [Beton Inspector](https://github.com/getbeton/inspector) - Open-source revenue intelligence; scores accounts from PostHog product signals + CRM and surfaces the warmest leads for sales.
+* [Beton Inspector](https://github.com/getbeton/inspector) - Open-source revenue intelligence; scores accounts from PostHog product signals + CRM and 
+* [OneLence](https://onelence.com) - Marketing analytics: what to scale, hold or stop across ads, SEO, AI search and affiliates.surfaces the warmest leads for sales.
 * [LinkPost](https://linkpost.gg) - AI-powered LinkedIn post writer that predicts virality before publishing using 1M+ posts and 300+ factors.
 
 #### Books
